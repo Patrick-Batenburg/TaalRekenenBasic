@@ -1,0 +1,6 @@
+D:\Users\Patrick\Documents\Visual Studio 2013\Projects\TaalRekenenBasic\TaalRekenenBasic\bin\Debug\TaalRekenenBasic.exe.config
+D:\Users\Patrick\Documents\Visual Studio 2013\Projects\TaalRekenenBasic\TaalRekenenBasic\bin\Debug\TaalRekenenBasic.exe
+D:\Users\Patrick\Documents\Visual Studio 2013\Projects\TaalRekenenBasic\TaalRekenenBasic\bin\Debug\TaalRekenenBasic.pdb
+D:\Users\Patrick\Documents\Visual Studio 2013\Projects\TaalRekenenBasic\TaalRekenenBasic\obj\Debug\TaalRekenenBasic.exe
+D:\Users\Patrick\Documents\Visual Studio 2013\Projects\TaalRekenenBasic\TaalRekenenBasic\obj\Debug\TaalRekenenBasic.pdb
+D:\Users\Patrick\Documents\Visual Studio 2013\Projects\TaalRekenenBasic\TaalRekenenBasic\obj\Debug\TaalRekenenBasic.csprojResolveAssemblyReference.cache

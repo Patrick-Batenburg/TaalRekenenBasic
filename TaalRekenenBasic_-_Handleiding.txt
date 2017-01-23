@@ -1,0 +1,23 @@
+Hieronder zijn de locatie's van de .txt bestanden die de console applicatie inleest.
+Als de bestanden en/of mappen niet aanwezig zijn dan worden ze automatisch aangemaakt, waarbij de .txt een paar standaard oefeningen bevatten. 
+
+%USERPROFILE%\documents\TaalRekenenBasic\Rekenen\Aftrekken.txt
+%USERPROFILE%\documents\TaalRekenenBasic\Rekenen\Optellen.txt
+%USERPROFILE%\documents\TaalRekenenBasic\Rekenen\Vermedigvuldigen.txt
+%USERPROFILE%\documents\TaalRekenenBasic\Rekenen\Delen.txt
+%USERPROFILE%\documents\TaalRekenenBasic\Rekenen\Alles_Door_Elkaar.txt
+
+%USERPROFILE%\documents\TaalRekenenBasic\Taal\Tegenwoordige_Tijd.txt
+%USERPROFILE%\documents\TaalRekenenBasic\Taal\Verleden_Tijd.txt
+%USERPROFILE%\documents\TaalRekenenBasic\Taal\Voltooid_Deelwoord.txt
+
+Verder kun je de oefeningen aanpassen en/of toevoegen in de .txt bestanden met het volgende volgend format:
+[zin],[antwoord]
+[som],[antwoord]
+
+dus bijvoorbeeld:
+Ik ... naar school. (lopen),loop
+Jij ... naar huis. (fietsen),fiets
+Jan ... aan zijn fiets. (werken),werkt
+5 + 10 =,15
+1 - 1 =,0
